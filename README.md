@@ -129,6 +129,9 @@ uv run python filter_downloaded_datasets.py
 
 ---
 
+## TO DO
+The filtered datasets need to be transformed, including their annotation, to be able to use in a YOLO26 training run as hard negatives.
+
 ## Dataset Citation
 
 ```bibtex
