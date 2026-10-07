@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <annotation>
+   <folder></folder>
+   <filename>20210804152735-Roadside.jpg</filename>
+   <path></path>
+   <source>
+     <database>EWD</database>
+   </source>
+   <size>
+     <width>6720</width>
+     <height>4480</height>
+     <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+     <name>Heracleum sphondylium</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>2458</xmin>
+       <ymin>1309</ymin>
+       <xmax>4487</xmax>
+       <ymax>3079</ymax>
+     </bndbox>
+   </object>
+ </annotation>

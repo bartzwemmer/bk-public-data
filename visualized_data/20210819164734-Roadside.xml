@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <annotation>
+   <folder></folder>
+   <filename>20210819164734-Roadside.jpg</filename>
+   <path></path>
+   <source>
+     <database>EWD</database>
+   </source>
+   <size>
+     <width>6720</width>
+     <height>4480</height>
+     <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+     <name>Calystegia sepium</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>1061</xmin>
+       <ymin>641</ymin>
+       <xmax>1296</xmax>
+       <ymax>868</ymax>
+     </bndbox>
+   </object>
+   <object>
+     <name>Heracleum sphondylium</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>3464</xmin>
+       <ymin>306</ymin>
+       <xmax>4020</xmax>
+       <ymax>835</ymax>
+     </bndbox>
+   </object>
+   <object>
+     <name>Heracleum sphondylium</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>5640</xmin>
+       <ymin>2626</ymin>
+       <xmax>5993</xmax>
+       <ymax>2938</ymax>
+     </bndbox>
+   </object>
+   <object>
+     <name>Heracleum sphondylium</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>2625</xmin>
+       <ymin>1253</ymin>
+       <xmax>2990</xmax>
+       <ymax>1559</ymax>
+     </bndbox>
+   </object>
+ </annotation>

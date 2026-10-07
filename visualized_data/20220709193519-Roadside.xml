@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <annotation>
+   <folder></folder>
+   <filename>20220709193519-Roadside.jpg</filename>
+   <path></path>
+   <source>
+     <database>EWD</database>
+   </source>
+   <size>
+     <width>6720</width>
+     <height>4480</height>
+     <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+     <name>Arctium lappa</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>3047</xmin>
+       <ymin>2155</ymin>
+       <xmax>3217</xmax>
+       <ymax>2343</ymax>
+     </bndbox>
+   </object>
+   <object>
+     <name>Arctium lappa</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>3736</xmin>
+       <ymin>2438</ymin>
+       <xmax>3975</xmax>
+       <ymax>2682</ymax>
+     </bndbox>
+   </object>
+   <object>
+     <name>Arctium lappa</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>3631</xmin>
+       <ymin>1791</ymin>
+       <xmax>3861</xmax>
+       <ymax>2013</ymax>
+     </bndbox>
+   </object>
+   <object>
+     <name>Arctium lappa</name>
+     <pose>Unspecified</pose>
+     <truncated>0</truncated>
+     <difficult>0</difficult>
+     <occluded>0</occluded>
+     <bndbox>
+       <xmin>3692</xmin>
+       <ymin>2005</ymin>
+       <xmax>3936</xmax>
+       <ymax>2263</ymax>
+     </bndbox>
+   </object>
+ </annotation>
